@@ -76,3 +76,10 @@ yarn-error.log*
 *.pem
 .cache/
 .vercel
+
+
+# -------------
+# Agent staging
+# -------------
+notes/
+repos/
