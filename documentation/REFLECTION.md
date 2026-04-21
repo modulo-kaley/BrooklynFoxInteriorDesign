@@ -128,7 +128,7 @@ I have a feeling that using an agentic workflow is better for research-based wor
 ### Tools Used
 
  > **1. Figma - VS Code and Claude Code MCP**
-    Connect designs directly from Figma into VS Code with Claude Code funcitonality.
+    Connect designs directly from Figma into VS Code with Claude Code functionality
     This was a game changer for this project.
     Since this project is essentially a design piece I spent some time figuring out ways to use the initial designs rather than recreating them.
     <https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server>
