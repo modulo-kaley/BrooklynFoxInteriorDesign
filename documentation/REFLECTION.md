@@ -207,9 +207,9 @@ transition: transform 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
 
 ## 6. Self-Assigned Grade
 
-> My Grade:  30 / 40
-    Given Marks: 33.5
-    Deducted Marks: 6.5
+> My Grade:  31.5/40
+    Given Marks: 36.5
+    Deducted Marks: 85
 
 ## Reasoning for grade
 
