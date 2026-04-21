@@ -12,7 +12,7 @@
 <https://github.com/modulo-kaley/BrooklynFoxInteriorDesign/tree/main>
 
 **Deployed Web Application URL**
-<>
+<https://brooklyn-fox-interior-design.vercel.app>
 
 ---
 
@@ -67,6 +67,8 @@ I explored a few angles of looking into this problem:
 The final outcome:
 Build Time: downscale-image.mjs script > turns 5-10 MB photoshop exports into 200 - 400 KB files > saves to public/images
 Run Time: next/image scoops at request time > generates responsive srcsets, lazy-loading below-the-fold tiles > swaps JPEG out for AVIF or WebP
+
+Note: These solutions are not as clean as there are locally
 
 ### Challenge Two
 
@@ -205,8 +207,8 @@ transition: transform 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
 
 ## 6. Self-Assigned Grade
 
-> My Grade:  32 / 40
-    Given Marks: 38.5
+> My Grade:  30 / 40
+    Given Marks: 33.5
     Deducted Marks: 6.5
 
 ## Reasoning for grade
@@ -218,7 +220,7 @@ transition: transform 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
     I am certain there are still pieces of the code that are slightly beyond me. I didn't spend enough time interacting with the data file - which is arguably the most important element (especially considering future builds).
     I think these marks docked represent both responsibility and cautiousness around these workflows as a junior developer.
 
-### Quality of Code - Given Marks - 9
+### Quality of Code - Given Marks - 7
 
 > Maintainability, consistent standards, usage of react + next features, clarity...
 
@@ -234,9 +236,11 @@ It was important to me to follow the prototype as much as possible.
 Personal Must-Have: Comments are plain-English and explain why (e.g., the flex-wrap centering note in the six-grid layout).
 I'm a busy gal and want to make sure when I circle back to this project for further updates I can reorient myself
 
-### Quality of Code - Deducted Marks - 1
+### Quality of Code - Deducted Marks - 3
 
 > Maintainability, consistent standards, usage of react + next features, clarity...
+
+Website does not render properly on Mobile - completely missed that
 
 These nice-to-haves were mentioned in a previous section and will be accounted for in a future sprint, but can still make a difference within the current project
  No custom not-found.js (unbranded 404)
