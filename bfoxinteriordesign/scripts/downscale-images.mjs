@@ -11,7 +11,7 @@
 // When to run:  after I drop new images into /public/images, or any time
 // git status shows me a scary list of multi-megabyte files.
 //
-// ! Heads up: this overwrites the original files. Commit first, always.
+// ! This overwrites the original files. Commit first, always.
 // That way if something looks off you can just git checkout and undo.
 // ─────────────────────────────────────────────────────────────────────────
 
