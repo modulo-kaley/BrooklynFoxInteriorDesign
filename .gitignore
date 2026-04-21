@@ -7,16 +7,16 @@
 # -------
 # Next.js
 # -------
-/.next/
-/out/
-/build/
+.next/
+out/
+build/
 
 
 # ------------
 # Dependencies
 # ------------
-/node_modules
-/.pnp
+node_modules/
+.pnp
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -57,7 +57,7 @@ next-env.d.ts
 # -------
 # Testing
 # -------
-/coverage
+coverage/
 
 
 # ------
