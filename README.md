@@ -1,17 +1,15 @@
 # Brooklyn Fox Interior Design
 
-A portfolio website for **Brooklyn Fox**, Interior Designer — designed by
-**Grace Wolff**, Information Designer, and built by **Kaley Wood**.
+A portfolio website for **Brooklyn Fox**, Interior Designer — designed by **Grace Wolff**, Information Designer, and built by **Kaley Wood**.
 
-Not your everyday carousel portfolio
-
+> Not your everyday carousel portfolio
+  
 - Land on a home screen styled like a record shelf
 - Pick one of three projects - each has its own vinyl color
 - Walk through its sections in a fixed linear order - join the ideation journey
 - Click any image to view it in full or fit mode
 
-Hover interactions animate throughout: thumbnails peek out of their
-sleeves, corner nav vinyls spin forward a full turn.
+>Hover interactions animate throughout: thumbnails peek out of the project sleeves, corner nav vinyls spin forward a full turn.
 
 ---
 
